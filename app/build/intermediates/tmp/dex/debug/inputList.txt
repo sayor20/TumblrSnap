@@ -1,0 +1,9 @@
+/Users/Sayor/Desktop/GItHub Projects/tumblrsnap-master/app/build/intermediates/classes/debug
+/Users/Sayor/Desktop/GItHub Projects/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-utils-295f93f9e4aa4fcc431c853d24be4bab6de9abf4.jar
+/Users/Sayor/Desktop/GItHub Projects/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-android-view-helpers-0.1.0-24f2601c442c2ff1b46e6ac15bda0839c655e378.jar
+/Users/Sayor/Desktop/GItHub Projects/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.2.3-937247b8666666474b819f23f3c6df1b5c3708ca.jar
+/Users/Sayor/Desktop/GItHub Projects/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-d55af23b9c7987ae3d250be070d139e35e9d659e.jar
+/Users/Sayor/Desktop/GItHub Projects/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-8cfb410fb5e992c9f14d25a02f61fb0ba942e04c.jar
+/Users/Sayor/Desktop/GItHub Projects/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/scribe-d9cb94a1c4d9a32318f3fa43f642b680211d0dde.jar
+/Users/Sayor/Desktop/GItHub Projects/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/androidjhlabs-633be91eed043bb9415684bf74c0aeadbb16d50f.jar
+/Users/Sayor/Desktop/GItHub Projects/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-fd6ba2174f6c14b1c60808fe0548907598ad9eea.jar
